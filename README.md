@@ -36,9 +36,9 @@ The application retrieves weather data from the OpenWeather API using Axios and 
 
 ## 🛠️ Technologies Used
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,js,css,mui,postman](https://skillicons.dev/icons?i=react,js,css,mui,postman)" alt="React, JavaScript, CSS and Material UI" />
-\</p>
+<p align="left">
+&#x20;<img src="[https://skillicons.dev/icons?i=react,js,css,mui,postman](https://skillicons.dev/icons?i=react,js,css,mui,postman)" alt="React, JavaScript, CSS and Material UI" />
+</p>
 
 - **React.js:** Building the user interface using reusable components.
 - **JavaScript:** Implementing application logic and dynamic interactions.
