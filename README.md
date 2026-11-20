@@ -43,6 +43,8 @@ The application retrieves weather data from the OpenWeather API using Axios and 
 - **CSS3:** Styling and responsive layouts.
 - **Material UI (MUI):** Providing UI components and interface elements.
 - **Axios:** Handling HTTP requests and communicating with the weather API.
+- **Postman:** Exploring and testing API endpoints.
+- **Vite:** Development server and production build tool. 
 
 ## 🧠 React Concepts
 
