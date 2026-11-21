@@ -122,7 +122,7 @@ The output directory depends on the build tool used by the project.
 
 ## 🌐 Live Demo
 
-[View Weather Application](https://weather-togather.netlify.app/)
+ [Visit Link ↖️](https://weather-togather.netlify.app/)
 
 ## 👨‍💻 Author
 
