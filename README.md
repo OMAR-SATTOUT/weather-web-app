@@ -2,6 +2,8 @@
 
 A responsive single-page weather application built with React. It allows users to search for cities and view current weather information through the OpenWeather API.
 
+> 📌 **Note:** This project is not intended to be a complete or production-ready product. It is a practical demonstration of my understanding and application of the concepts and technologies used, and it can be further improved and extended.
+
 ## 🚀 Overview
 
 This project is a React-based weather application designed to provide users with essential weather information through a clean and user-friendly interface.
